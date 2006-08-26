@@ -7,7 +7,7 @@ use warnings;
 
 use Data::UUID;
 
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 
 sub generate {
     my ($session) = @_;
